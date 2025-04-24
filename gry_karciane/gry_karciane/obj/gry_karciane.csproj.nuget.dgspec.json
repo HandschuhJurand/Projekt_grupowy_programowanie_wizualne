@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS EXPERTBOOK\\Desktop\\Studia\\Bioinf 2023-24\\Semestr 4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj": {}
+    "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS EXPERTBOOK\\Desktop\\Studia\\Bioinf 2023-24\\Semestr 4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj": {
+    "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS EXPERTBOOK\\Desktop\\Studia\\Bioinf 2023-24\\Semestr 4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj",
+        "projectUniqueName": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj",
         "projectName": "gry_karciane",
-        "projectPath": "C:\\Users\\ASUS EXPERTBOOK\\Desktop\\Studia\\Bioinf 2023-24\\Semestr 4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj",
-        "packagesPath": "C:\\Users\\ASUS EXPERTBOOK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS EXPERTBOOK\\Desktop\\Studia\\Bioinf 2023-24\\Semestr 4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\obj\\",
+        "projectPath": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj",
+        "packagesPath": "C:\\Users\\Zofia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS EXPERTBOOK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

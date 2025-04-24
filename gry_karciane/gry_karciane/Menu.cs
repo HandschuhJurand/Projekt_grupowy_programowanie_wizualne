@@ -1,0 +1,27 @@
+namespace gry_karciane
+{
+    public partial class Menu : Form
+    {
+        public Menu()
+        {
+            InitializeComponent();
+        }
+
+        private void button_dodaj_graczy_Click(object sender, EventArgs e)
+        {
+            FormLogin formLogin = new FormLogin();
+            formLogin.ShowDialog();
+        }
+
+        private void button_historia_Click(object sender, EventArgs e)
+        {
+            FormHistoria formHistoria = new FormHistoria();
+            formHistoria.ShowDialog();
+        }
+
+        private void button_koniec_Click(object sender, EventArgs e)
+        {
+        this.Close();
+        }
+    }
+}
