@@ -38,40 +38,40 @@
             // 
             // button_gra1
             // 
-            button_gra1.Location = new Point(328, 283);
+            button_gra1.Location = new Point(275, 283);
             button_gra1.Margin = new Padding(4);
             button_gra1.Name = "button_gra1";
-            button_gra1.Size = new Size(134, 41);
+            button_gra1.Size = new Size(257, 44);
             button_gra1.TabIndex = 0;
             button_gra1.Text = "Olimpia";
             button_gra1.UseVisualStyleBackColor = true;
             // 
             // button_gra3
             // 
-            button_gra3.Location = new Point(328, 439);
+            button_gra3.Location = new Point(275, 439);
             button_gra3.Margin = new Padding(4);
             button_gra3.Name = "button_gra3";
-            button_gra3.Size = new Size(134, 41);
+            button_gra3.Size = new Size(257, 44);
             button_gra3.TabIndex = 1;
             button_gra3.Text = "Grzesiek";
             button_gra3.UseVisualStyleBackColor = true;
             // 
             // button_gra2
             // 
-            button_gra2.Location = new Point(328, 360);
+            button_gra2.Location = new Point(275, 360);
             button_gra2.Margin = new Padding(4);
             button_gra2.Name = "button_gra2";
-            button_gra2.Size = new Size(134, 41);
+            button_gra2.Size = new Size(257, 47);
             button_gra2.TabIndex = 2;
             button_gra2.Text = "Jurand";
             button_gra2.UseVisualStyleBackColor = true;
             // 
             // button_historia
             // 
-            button_historia.Location = new Point(331, 532);
+            button_historia.Location = new Point(275, 619);
             button_historia.Margin = new Padding(4);
             button_historia.Name = "button_historia";
-            button_historia.Size = new Size(134, 41);
+            button_historia.Size = new Size(257, 53);
             button_historia.TabIndex = 3;
             button_historia.Text = "Historia";
             button_historia.UseVisualStyleBackColor = true;
@@ -79,21 +79,21 @@
             // 
             // button_dodaj_graczy
             // 
-            button_dodaj_graczy.Location = new Point(331, 628);
+            button_dodaj_graczy.Location = new Point(275, 553);
             button_dodaj_graczy.Margin = new Padding(4);
             button_dodaj_graczy.Name = "button_dodaj_graczy";
-            button_dodaj_graczy.Size = new Size(134, 41);
+            button_dodaj_graczy.Size = new Size(257, 41);
             button_dodaj_graczy.TabIndex = 4;
-            button_dodaj_graczy.Text = "Dodaj";
+            button_dodaj_graczy.Text = "Dodaj graczy";
             button_dodaj_graczy.UseVisualStyleBackColor = true;
             button_dodaj_graczy.Click += button_dodaj_graczy_Click;
             // 
             // button_koniec
             // 
-            button_koniec.Location = new Point(336, 742);
+            button_koniec.Location = new Point(275, 732);
             button_koniec.Margin = new Padding(4);
             button_koniec.Name = "button_koniec";
-            button_koniec.Size = new Size(134, 41);
+            button_koniec.Size = new Size(257, 47);
             button_koniec.TabIndex = 5;
             button_koniec.Text = "Koniec";
             button_koniec.UseVisualStyleBackColor = true;
