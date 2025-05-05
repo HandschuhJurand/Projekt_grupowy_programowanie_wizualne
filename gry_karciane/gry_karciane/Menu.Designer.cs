@@ -38,40 +38,41 @@
             // 
             // button_gra1
             // 
-            button_gra1.Location = new Point(275, 283);
-            button_gra1.Margin = new Padding(4);
+            button_gra1.Location = new Point(160, 142);
+            button_gra1.Margin = new Padding(2, 2, 2, 2);
             button_gra1.Name = "button_gra1";
-            button_gra1.Size = new Size(257, 44);
+            button_gra1.Size = new Size(150, 22);
             button_gra1.TabIndex = 0;
             button_gra1.Text = "Olimpia";
             button_gra1.UseVisualStyleBackColor = true;
             // 
             // button_gra3
             // 
-            button_gra3.Location = new Point(275, 439);
-            button_gra3.Margin = new Padding(4);
+            button_gra3.Location = new Point(160, 220);
+            button_gra3.Margin = new Padding(2, 2, 2, 2);
             button_gra3.Name = "button_gra3";
-            button_gra3.Size = new Size(257, 44);
+            button_gra3.Size = new Size(150, 22);
             button_gra3.TabIndex = 1;
             button_gra3.Text = "Grzesiek";
             button_gra3.UseVisualStyleBackColor = true;
             // 
             // button_gra2
             // 
-            button_gra2.Location = new Point(275, 360);
-            button_gra2.Margin = new Padding(4);
+            button_gra2.Location = new Point(160, 180);
+            button_gra2.Margin = new Padding(2, 2, 2, 2);
             button_gra2.Name = "button_gra2";
-            button_gra2.Size = new Size(257, 47);
+            button_gra2.Size = new Size(150, 24);
             button_gra2.TabIndex = 2;
-            button_gra2.Text = "Jurand";
+            button_gra2.Text = "Wojna";
             button_gra2.UseVisualStyleBackColor = true;
+            button_gra2.Click += button_gra2_Click;
             // 
             // button_historia
             // 
-            button_historia.Location = new Point(275, 619);
-            button_historia.Margin = new Padding(4);
+            button_historia.Location = new Point(160, 310);
+            button_historia.Margin = new Padding(2, 2, 2, 2);
             button_historia.Name = "button_historia";
-            button_historia.Size = new Size(257, 53);
+            button_historia.Size = new Size(150, 26);
             button_historia.TabIndex = 3;
             button_historia.Text = "Historia";
             button_historia.UseVisualStyleBackColor = true;
@@ -79,10 +80,10 @@
             // 
             // button_dodaj_graczy
             // 
-            button_dodaj_graczy.Location = new Point(275, 553);
-            button_dodaj_graczy.Margin = new Padding(4);
+            button_dodaj_graczy.Location = new Point(160, 276);
+            button_dodaj_graczy.Margin = new Padding(2, 2, 2, 2);
             button_dodaj_graczy.Name = "button_dodaj_graczy";
-            button_dodaj_graczy.Size = new Size(257, 41);
+            button_dodaj_graczy.Size = new Size(150, 20);
             button_dodaj_graczy.TabIndex = 4;
             button_dodaj_graczy.Text = "Dodaj graczy";
             button_dodaj_graczy.UseVisualStyleBackColor = true;
@@ -90,10 +91,10 @@
             // 
             // button_koniec
             // 
-            button_koniec.Location = new Point(275, 732);
-            button_koniec.Margin = new Padding(4);
+            button_koniec.Location = new Point(160, 366);
+            button_koniec.Margin = new Padding(2, 2, 2, 2);
             button_koniec.Name = "button_koniec";
-            button_koniec.Size = new Size(257, 47);
+            button_koniec.Size = new Size(150, 24);
             button_koniec.TabIndex = 5;
             button_koniec.Text = "Koniec";
             button_koniec.UseVisualStyleBackColor = true;
@@ -101,16 +102,16 @@
             // 
             // Menu
             // 
-            AutoScaleDimensions = new SizeF(12F, 30F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1312, 1205);
+            ClientSize = new Size(765, 602);
             Controls.Add(button_koniec);
             Controls.Add(button_dodaj_graczy);
             Controls.Add(button_historia);
             Controls.Add(button_gra2);
             Controls.Add(button_gra3);
             Controls.Add(button_gra1);
-            Margin = new Padding(4);
+            Margin = new Padding(2, 2, 2, 2);
             Name = "Menu";
             Text = "Menu";
             ResumeLayout(false);
