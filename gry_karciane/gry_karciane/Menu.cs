@@ -21,7 +21,13 @@ namespace gry_karciane
 
         private void button_koniec_Click(object sender, EventArgs e)
         {
-        this.Close();
+            this.Close();
+        }
+
+        private void button_gra2_Click(object sender, EventArgs e)
+        {
+            Wojna wojna = new Wojna();
+            wojna.ShowDialog();
         }
     }
 }

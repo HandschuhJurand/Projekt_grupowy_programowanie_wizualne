@@ -1,54 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\",
+  "WorkspaceRootPath": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\zofia\\documents\\github\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\formhistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\formhistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\jurin\\documents\\studia\\semestr_4\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\wojna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\wojna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\zofia\\documents\\github\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\jurin\\documents\\studia\\semestr_4\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\wojna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\wojna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\zofia\\documents\\github\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\sesjagracza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\sesjagracza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\zofia\\documents\\github\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\formhistoria.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\formhistoria.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\formhistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\formhistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\zofia\\documents\\github\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\rozgrywka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\jurin\\documents\\studia\\semestr_4\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\rozgrywka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\rozgrywka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\zofia\\documents\\github\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\zofia\\documents\\github\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gracz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\gracz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\zofia\\documents\\github\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\jurin\\documents\\studia\\semestr_4\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\zofia\\documents\\github\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\gry_karciane.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\jurin\\documents\\studia\\semestr_4\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,47 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Menu.cs",
-              "RelativeDocumentMoniker": "gry_karciane\\Menu.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Menu.cs",
-              "RelativeToolTip": "gry_karciane\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T13:35:43.735Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Historia.cs",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Historia.cs",
-              "RelativeDocumentMoniker": "gry_karciane\\Historia.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Historia.cs",
-              "RelativeToolTip": "gry_karciane\\Historia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T18:01:55.758Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Rozgrywka.cs",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Rozgrywka.cs",
-              "RelativeDocumentMoniker": "gry_karciane\\Rozgrywka.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Rozgrywka.cs",
-              "RelativeToolTip": "gry_karciane\\Rozgrywka.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T18:00:06.408Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -110,74 +66,66 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SesjaGracza.cs",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\SesjaGracza.cs",
-              "RelativeDocumentMoniker": "gry_karciane\\SesjaGracza.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\SesjaGracza.cs",
-              "RelativeToolTip": "gry_karciane\\SesjaGracza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "Rozgrywka.cs",
+              "DocumentMoniker": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Rozgrywka.cs",
+              "RelativeDocumentMoniker": "gry_karciane\\Rozgrywka.cs",
+              "ToolTip": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Rozgrywka.cs",
+              "RelativeToolTip": "gry_karciane\\Rozgrywka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:32:43.47Z",
+              "WhenOpened": "2025-05-05T09:12:59.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Menu.cs",
+              "RelativeDocumentMoniker": "gry_karciane\\Menu.cs",
+              "ToolTip": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Menu.cs",
+              "RelativeToolTip": "gry_karciane\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:27:05.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wojna.cs",
+              "DocumentMoniker": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Wojna.cs",
+              "RelativeDocumentMoniker": "gry_karciane\\Wojna.cs",
+              "ToolTip": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Wojna.cs",
+              "RelativeToolTip": "gry_karciane\\Wojna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:19:40.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormHistoria.cs",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormHistoria.cs",
-              "RelativeDocumentMoniker": "gry_karciane\\FormHistoria.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormHistoria.cs*",
-              "RelativeToolTip": "gry_karciane\\FormHistoria.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Title": "Wojna.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Wojna.cs",
+              "RelativeDocumentMoniker": "gry_karciane\\Wojna.cs",
+              "ToolTip": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Wojna.cs [Design]",
+              "RelativeToolTip": "gry_karciane\\Wojna.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T13:42:43.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T08:19:06.323Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormHistoria.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormHistoria.Designer.cs",
-              "RelativeDocumentMoniker": "gry_karciane\\FormHistoria.Designer.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormHistoria.Designer.cs*",
-              "RelativeToolTip": "gry_karciane\\FormHistoria.Designer.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwCwAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T13:43:24.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormHistoria.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormHistoria.cs",
-              "RelativeDocumentMoniker": "gry_karciane\\FormHistoria.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormHistoria.cs [Projekt]*",
-              "RelativeToolTip": "gry_karciane\\FormHistoria.cs [Projekt]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T13:34:55.766Z",
-              "EditorCaption": " [Projekt]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "FormLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormLogin.cs",
               "RelativeDocumentMoniker": "gry_karciane\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormLogin.cs",
               "RelativeToolTip": "gry_karciane\\FormLogin.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwDYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,53 +134,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Gracz.cs",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Gracz.cs",
-              "RelativeDocumentMoniker": "gry_karciane\\Gracz.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Gracz.cs",
-              "RelativeToolTip": "gry_karciane\\Gracz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:31:35.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "gry_karciane.csproj",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj",
-              "RelativeDocumentMoniker": "gry_karciane\\gry_karciane.csproj",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\gry_karciane.csproj",
-              "RelativeToolTip": "gry_karciane\\gry_karciane.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T11:32:14.239Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Menu.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Menu.cs",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Menu.cs",
               "RelativeDocumentMoniker": "gry_karciane\\Menu.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Menu.cs [Projekt]",
-              "RelativeToolTip": "gry_karciane\\Menu.cs [Projekt]",
+              "ToolTip": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Menu.cs [Design]",
+              "RelativeToolTip": "gry_karciane\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:12:30.746Z"
+              "WhenOpened": "2025-04-24T10:12:30.746Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormLogin.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormLogin.cs",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormLogin.cs",
               "RelativeDocumentMoniker": "gry_karciane\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\Zofia\\Documents\\GitHub\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormLogin.cs [Projekt]",
-              "RelativeToolTip": "gry_karciane\\FormLogin.cs [Projekt]",
+              "ToolTip": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\FormLogin.cs [Design]",
+              "RelativeToolTip": "gry_karciane\\FormLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T13:34:25.049Z"
+              "WhenOpened": "2025-04-24T13:34:25.049Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
