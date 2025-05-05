@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\jurin\\documents\\studia\\semestr_4\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\wojna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\wojna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\jurin\\documents\\studia\\semestr_4\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\wojna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\wojna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\jurin\\documents\\studia\\semestr_4\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\wojna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|solutionrelative:gry_karciane\\wojna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFE5474D-3C40-45E2-951E-D15D647C0602}|gry_karciane\\gry_karciane.csproj|c:\\users\\jurin\\documents\\studia\\semestr_4\\projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\rozgrywka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Wojna.cs",
               "DocumentMoniker": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Wojna.cs",
               "RelativeDocumentMoniker": "gry_karciane\\Wojna.cs",
               "ToolTip": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Wojna.cs",
               "RelativeToolTip": "gry_karciane\\Wojna.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAA9wEEAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAA9wEEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T16:17:28.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Wojna.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jurin\\Documents\\Studia\\Semestr_4\\Projekt_grupowy_programowanie_wizualne\\gry_karciane\\gry_karciane\\Wojna.cs",
               "RelativeDocumentMoniker": "gry_karciane\\Wojna.cs",
