@@ -34,8 +34,6 @@ namespace gry_karciane
             label_wynik.Text = "Start";
             label_liczba_kart_p1.Text = $"Karty: {karty_p1.Count}";
             label_liczba_kart_p2.Text = $"Karty: {karty_p2.Count}";
-            label_karta_p1.Text = "";
-            label_karta_p2.Text = "";
         }
         private void button_ruch_Click(object sender, EventArgs e)
         {
@@ -53,7 +51,7 @@ namespace gry_karciane
                 }
 
                 MessageBox.Show($"KONIEC GRY! Wygral: {zwyciezca}");
-                Historia.DodajRozgrywke(new Rozgrywka ("Wojna", SesjaGracza.Gracz1.Login, SesjaGracza.Gracz2.Login, zwyciezca));
+                Historia.DodajRozgrywke(new Rozgrywka("Wojna", SesjaGracza.Gracz1.Login, SesjaGracza.Gracz2.Login, zwyciezca));
                 this.Close();
                 return;
             }
@@ -64,8 +62,8 @@ namespace gry_karciane
             stos_wojny.Add(karta1);
             stos_wojny.Add(karta2);
 
-            label_karta_p1.Text = karta1.ToString();
-            label_karta_p2.Text = karta2.ToString();
+            pictureBox_p1.Image = Image.FromFile(Wczytaj_obraz(karta1));
+            pictureBox_p2.Image = Image.FromFile(Wczytaj_obraz(karta2));
 
             if (karta1.Wartosc > karta2.Wartosc)
             {
@@ -89,7 +87,7 @@ namespace gry_karciane
             {
                 label_wynik.Text = "WOJNA";
 
-                for(int i = 0; i < 3; i++)
+                for (int i = 0; i < 3; i++)
                 {
                     if (karty_p1.Count > 0)
                     {
@@ -122,30 +120,6 @@ namespace gry_karciane
                 Wartosc = wartosc;
             }
 
-            public override string ToString()
-            {
-                string nazwa;
-                switch (Wartosc)
-                {
-                    case 11:
-                        nazwa = "J";
-                        break;
-                    case 12:
-                        nazwa = "D";
-                        break;
-                    case 13:
-                        nazwa = "K";
-                        break;
-                    case 14:
-                        nazwa = "A";
-                        break;
-                    default:
-                        nazwa = Wartosc.ToString();
-                        break;
-                }
-                return $"{nazwa} {Kolor}";
-            }
-
             public static List<Karta> Stworz_talie()
             {
                 var kolory = new[] { "Kier", "Karo", "Trefl", "Pik" };
@@ -159,6 +133,30 @@ namespace gry_karciane
                 }
                 return talia;
             }
+        }
+        private string Wczytaj_obraz(Karta karta)
+        {
+            string wartosc;
+            switch (karta.Wartosc)
+            {
+                case 11: wartosc = "J"; break;
+                case 12: wartosc = "D"; break;
+                case 13: wartosc = "K"; break;
+                case 14: wartosc = "A"; break;
+                default: wartosc = karta.Wartosc.ToString(); break;
+            }
+            string kolor = karta.Kolor.ToLower();
+            string sciezka = System.IO.Path.Combine("cards", $"{wartosc}_{kolor}.png");
+            if (!System.IO.File.Exists(sciezka))
+            {
+                MessageBox.Show($"Brak pliku: {sciezka}");
+            }
+            return sciezka;
+        }
+
+        private void pictureBox_p1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
