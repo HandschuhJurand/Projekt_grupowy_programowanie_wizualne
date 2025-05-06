@@ -130,17 +130,26 @@ namespace gry_karciane
 
                 if (ObliczWartoscKart(kartyGracz1) > 21)
                 {
-                    DialogResult result = MessageBox.Show($"{SesjaGracza.Gracz1.Login} przekroczył 21 punktów! Przegrywa turę.", "Przekroczono limit", MessageBoxButtons.OK);
-
-                    if (result == DialogResult.OK)
-                    {
-                        ZakonczGre(); 
-                    }
+                    MessageBox.Show($"{SesjaGracza.Gracz1.Login} przekroczył 21 punktów! Przegrywa turę.");
+                    ZakonczGre();
                 }
                 else if (ObliczWartoscKart(kartyGracz1) == 21)
                 {
                     MessageBox.Show($"{SesjaGracza.Gracz1.Login} osiągnął dokładnie 21 punktów!");
-                    button_zakoncz.Enabled = true;
+                    gracz1ZakonczylDobieranie = true;
+                    aktualnyGracz = 2;
+                    label_tura.Text = $"Tura gracza: {SesjaGracza.Gracz2.Login}";
+                    kartDobranych = 0;
+                    WyczyscObrazKarty();
+                    if (pierwszaTuraGracz2)
+                    {
+                        button_zakoncz.Enabled = false;
+                    }
+                    else
+                    {
+                        button_zakoncz.Enabled = true;
+                    }
+                    label_wartosc_kart.Text = $"Suma wynikająca z wszystkich posiadanych kart: {ObliczWartoscKart(kartyGracz2)}";
                 }
             }
             else
@@ -174,11 +183,19 @@ namespace gry_karciane
                 else if (ObliczWartoscKart(kartyGracz2) == 21)
                 {
                     MessageBox.Show($"{SesjaGracza.Gracz2.Login} osiągnął dokładnie 21 punktów!");
-                    button_zakoncz.Enabled = true;
+                    gracz2ZakonczylDobieranie = true;
+
+                    if (gracz1ZakonczylDobieranie && ObliczWartoscKart(kartyGracz1) == 21 && ObliczWartoscKart(kartyGracz2) == 21)
+                    {
+                        ZakonczGre();
+                    }
+                    else
+                    {
+                        ZakonczGre();
+                    }
                 }
             }
         }
-
         private int ObliczWartoscKart(List<Karta> karty)
         {
             int suma = 0;
@@ -216,7 +233,14 @@ namespace gry_karciane
             int wartoscGracz2 = ObliczWartoscKart(kartyGracz2);
             string zwyciezca;
 
-            if (wartoscGracz1 > 21 && wartoscGracz2 <= 21)
+            if (wartoscGracz1 == 21 && wartoscGracz2 == 21)
+            {
+                zwyciezca = "Remis";
+                MessageBox.Show($"KONIEC GRY! Remis! Obaj gracze uzyskali 21 punktów!");
+                DodajHistorieZamknijForm("Nastąpił remis");
+                return;
+            }
+            else if (wartoscGracz1 > 21 && wartoscGracz2 <= 21)
             {
                 zwyciezca = SesjaGracza.Gracz2.Login;
             }
@@ -228,7 +252,8 @@ namespace gry_karciane
             {
                 zwyciezca = "Remis";
                 MessageBox.Show($"KONIEC GRY! Remis! Gracz1: {wartoscGracz1}, Gracz2: {wartoscGracz2}");
-                DodajHistorieZamknijForm("Remis");
+                DodajHistorieZamknijForm("Nastąpił remis");
+
                 return;
             }
             else
