@@ -29,5 +29,11 @@ namespace gry_karciane
             Wojna wojna = new Wojna();
             wojna.ShowDialog();
         }
+
+        private void button_gra3_Click(object sender, EventArgs e)
+        {
+            Baccarat baccarat = new Baccarat();
+            baccarat.ShowDialog();
+        }
     }
 }

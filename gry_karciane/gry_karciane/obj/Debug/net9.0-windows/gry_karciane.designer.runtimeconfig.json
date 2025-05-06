@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\jurin\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jurin\\.nuget\\packages",
+      "C:\\Users\\gkacp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gkacp\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
