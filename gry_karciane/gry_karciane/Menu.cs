@@ -29,5 +29,11 @@ namespace gry_karciane
             Wojna wojna = new Wojna();
             wojna.ShowDialog();
         }
+
+        private void button_gra1_Click(object sender, EventArgs e)
+        {
+            oczko oczko = new oczko();
+            oczko.ShowDialog();
+        }
     }
 }

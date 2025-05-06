@@ -38,30 +38,28 @@
             // 
             // button_gra1
             // 
-            button_gra1.Location = new Point(160, 142);
-            button_gra1.Margin = new Padding(2, 2, 2, 2);
+            button_gra1.Location = new Point(229, 237);
             button_gra1.Name = "button_gra1";
-            button_gra1.Size = new Size(150, 22);
+            button_gra1.Size = new Size(214, 37);
             button_gra1.TabIndex = 0;
-            button_gra1.Text = "Olimpia";
+            button_gra1.Text = "Oczko";
             button_gra1.UseVisualStyleBackColor = true;
+            button_gra1.Click += button_gra1_Click;
             // 
             // button_gra3
             // 
-            button_gra3.Location = new Point(160, 220);
-            button_gra3.Margin = new Padding(2, 2, 2, 2);
+            button_gra3.Location = new Point(229, 367);
             button_gra3.Name = "button_gra3";
-            button_gra3.Size = new Size(150, 22);
+            button_gra3.Size = new Size(214, 37);
             button_gra3.TabIndex = 1;
             button_gra3.Text = "Grzesiek";
             button_gra3.UseVisualStyleBackColor = true;
             // 
             // button_gra2
             // 
-            button_gra2.Location = new Point(160, 180);
-            button_gra2.Margin = new Padding(2, 2, 2, 2);
+            button_gra2.Location = new Point(229, 300);
             button_gra2.Name = "button_gra2";
-            button_gra2.Size = new Size(150, 24);
+            button_gra2.Size = new Size(214, 40);
             button_gra2.TabIndex = 2;
             button_gra2.Text = "Wojna";
             button_gra2.UseVisualStyleBackColor = true;
@@ -69,10 +67,9 @@
             // 
             // button_historia
             // 
-            button_historia.Location = new Point(160, 310);
-            button_historia.Margin = new Padding(2, 2, 2, 2);
+            button_historia.Location = new Point(229, 517);
             button_historia.Name = "button_historia";
-            button_historia.Size = new Size(150, 26);
+            button_historia.Size = new Size(214, 43);
             button_historia.TabIndex = 3;
             button_historia.Text = "Historia";
             button_historia.UseVisualStyleBackColor = true;
@@ -80,10 +77,9 @@
             // 
             // button_dodaj_graczy
             // 
-            button_dodaj_graczy.Location = new Point(160, 276);
-            button_dodaj_graczy.Margin = new Padding(2, 2, 2, 2);
+            button_dodaj_graczy.Location = new Point(229, 460);
             button_dodaj_graczy.Name = "button_dodaj_graczy";
-            button_dodaj_graczy.Size = new Size(150, 20);
+            button_dodaj_graczy.Size = new Size(214, 33);
             button_dodaj_graczy.TabIndex = 4;
             button_dodaj_graczy.Text = "Dodaj graczy";
             button_dodaj_graczy.UseVisualStyleBackColor = true;
@@ -91,10 +87,9 @@
             // 
             // button_koniec
             // 
-            button_koniec.Location = new Point(160, 366);
-            button_koniec.Margin = new Padding(2, 2, 2, 2);
+            button_koniec.Location = new Point(229, 610);
             button_koniec.Name = "button_koniec";
-            button_koniec.Size = new Size(150, 24);
+            button_koniec.Size = new Size(214, 40);
             button_koniec.TabIndex = 5;
             button_koniec.Text = "Koniec";
             button_koniec.UseVisualStyleBackColor = true;
@@ -102,16 +97,15 @@
             // 
             // Menu
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(765, 602);
+            ClientSize = new Size(1093, 1003);
             Controls.Add(button_koniec);
             Controls.Add(button_dodaj_graczy);
             Controls.Add(button_historia);
             Controls.Add(button_gra2);
             Controls.Add(button_gra3);
             Controls.Add(button_gra1);
-            Margin = new Padding(2, 2, 2, 2);
             Name = "Menu";
             Text = "Menu";
             ResumeLayout(false);
