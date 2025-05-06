@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gry_karciane")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd4c1a095d7a6c714a6086adf81755c58a4aab8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e41d7c38d580f2249134592309f74c1194c308fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("gry_karciane")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gry_karciane")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
