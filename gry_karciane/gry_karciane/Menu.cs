@@ -35,5 +35,11 @@ namespace gry_karciane
             Baccarat baccarat = new Baccarat();
             baccarat.ShowDialog();
         }
+
+        private void button_gra1_Click(object sender, EventArgs e)
+        {
+            oczko oczko = new oczko();
+            oczko.ShowDialog();
+        }
     }
 }
